@@ -1,0 +1,28 @@
+name: AbGenAnimationStudios
+favicon: null
+layout_spectrum: 0.561975606251508
+typography_spectrum: 0.9609089449513704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8099697034340352
+  lightness: 0.7956631607376039
+  saturation: 0.2168040182441473
+  rhythmicContrast: 0.7511593985836953
+purpose: []
